@@ -8,10 +8,6 @@ using namespace std;
 
 
 
-
-
-
-
 int main() {
 	int L = 100;
 
