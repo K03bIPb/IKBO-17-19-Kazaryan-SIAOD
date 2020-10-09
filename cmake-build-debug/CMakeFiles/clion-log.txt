@@ -1,0 +1,9 @@
+"D:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "D:\C++ Projects\IKBO-17-19-Kazaryan-SIAOD"
+CMake Error at CMakeLists.txt:6 (add_executable):
+  The target name "SIAOD-IKBO-17-19-Kazaryan/Practice1" is reserved or not
+  valid for certain CMake features, such as generator expressions, and may
+  result in undefined behavior.
+
+
+-- Configuring incomplete, errors occurred!
+See also "D:/C++ Projects/IKBO-17-19-Kazaryan-SIAOD/cmake-build-debug/CMakeFiles/CMakeOutput.log".

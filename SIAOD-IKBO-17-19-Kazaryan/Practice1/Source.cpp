@@ -70,6 +70,6 @@ int main() {
 	CreateBitArray("file.txt");
 	SortFile("file.txt");
 	ReadFile("file.txt");
-	
-	
+
+    x &= ~(x >> 5)
 } 
